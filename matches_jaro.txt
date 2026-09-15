@@ -1,0 +1,95 @@
+Ever After,Ever After,0.8000
+First Daughter,First Daughter,0.8018
+Hope Floats,Hope Floats,0.8000
+88 Minutes,88 Minutes,0.7600
+Chicago,Chicago,0.8000
+All The King's Men,All the King's Men,0.7911
+Across The Universe,Across the Universe,0.7932
+XXX,XX/XY,0.7573
+Quantum Of Solace,Quantum Heist, The,0.6725
+Max Payne,Max Payne,0.7600
+A Walk On The Moon,Walk,0.6963
+Blazing Saddles,Blazing Saddles,0.8000
+Yentl,Yentl,0.8000
+Changeling,Changeling, The,0.7733
+Miss Congeniality,Miss Congeniality,0.8000
+Casino Royale,Casino Royale,0.8015
+Sky High,Sky High,0.8036
+Madagascar: Escape 2 Africa,Madagascar 2,0.7556
+The Last Samurai,That Sun,0.7114
+Stars In My Crown,Stars in My Crown,0.7906
+Body Of Lies,Bodyguard of Lies,0.7651
+The Long Kiss Goodnight,Long Kiss Goodnight, The,0.7004
+The Hustler,Hustler, The,0.6832
+Forever Love,Forever Fever,0.7602
+The Great Mcginty,They Meet Again,0.6983
+Black Snake Moan,Black Snake Moan,0.7600
+The Day The Earth Stood Still,They Marched Into Sunlight,0.6760
+Tomorrow Never Dies,Tomorrow Never Dies,0.8000
+Goldeneye,GoldenEye,0.7722
+Slumdog Millionaire,Flying Guillotine,0.6783
+Raising Arizona,Raising Arizona,0.8000
+Fireproof,Firestorm,0.7333
+The Fifth Element,Fifth Element, The,0.7107
+Mamma Mia!,Mamma Mia,0.7520
+Indiana Jones And The Kingdom Of The Crystal Skull,Indiana Jones 4,0.7371
+The Hitchhiker's Guide To The Galaxy,Hitchhiker's Guide to the Galaxy, The,0.7151
+Crouching Tiger, Hidden Dragon,Crouching Tiger, Hidden Dragon,0.6800
+Batman Begins,Batman Begins,0.8000
+Milk,Milk and Fashion,0.7400
+Mandalay,Mandalay,0.8000
+While You Were Sleeping,While You Were Sleeping,0.8000
+Portrait Of Jennie,Portrait of Jennie,0.7911
+Sail A Crooked Ship,Sail a Crooked Ship,0.7916
+Hocus Pocus,Hocus Pocus,0.8000
+Man of the House,Man of the House,0.8022
+Hellboy,Hellboy,0.8000
+Miracle At St. Anna,Malek,0.6681
+The Devil Wears Prada,Thieves,0.7137
+Australia,Australia,0.8000
+Role Models,Stolen Moments,0.7065
+The Searchers,Three Bad Sisters,0.7072
+Eagle Eye,Battle Royale,0.6838
+Atl,Atemlos,0.7390
+The Boondock Saints,Second Skin,0.6981
+Live Free Or Die Hard,Live Free or Die Hard,0.7924
+Tropic Thunder,Trophy,0.7352
+Transporter 2,Transporteur II, Le,0.7644
+Exit Wounds,Exit Wounds,0.8034
+Towelhead,Howl,0.6778
+Bolt,Bolden!,0.7233
+Men In Black II,Men in Black II,0.7893
+Four Christmases,Four Christmases,0.7600
+Virtual Jfk: Vietnam If Kennedy Had Lived,Minutemen,0.6612
+The World is Not Enough,World Is Not Enough, The,0.6859
+Pirates Of The Caribbean: Dead Man's Chest,Pirates of the Caribbean: Dead Man's Chest,0.7924
+Sex And The City,Sex and Death 101,0.6922
+Transporter 3,Trap Door,0.7186
+Out of Sight,Out of Sight,0.8000
+Victor/Victoria,Victor/Victoria,0.8000
+Waitress,Waitress,0.8000
+Can't Hardly Wait,Can't Hardly Wait,0.8000
+W.,W.C.,0.7067
+Vanilla Sky,Vanilla Sky,0.8000
+Titanic,Titanic,0.8000
+Twilight,Til Night,0.7183
+The Perfect Nanny,Terc,0.7082
+Halloween,Halloween,0.8000
+Meet Me In St. Louis,Meet Me in St. Louis,0.7920
+Zack And Miri Make A Porno,Bran Mak Morn,0.6735
+Star Trek Iv: The Voyage Home,Star Trek IV: The Voyage Home,0.7859
+Wall-E,Wall-E,0.7600
+Iron Man,Iron Man,0.8000
+The Benchwarmers,Thicker Than Water,0.7058
+Saw V,Saw IV,0.7467
+The Godfather,Godfather, The,0.6903
+The Dark Knight,Taken,0.6960
+Fantastic Four,Fantastic Four,0.8000
+Tyler Perry's The Family That Preys,Terra,0.6971
+Come Early Morning,Come Early Morning,0.8000
+Jawbreaker,Jawbreaker,0.8000
+Frozen River,Frenemies,0.7111
+The Boy In The Striped Pajamas,Boy in the Striped Pajamas, The,0.7094
+Body Of Evidence,Body of Evidence,0.7900
+Burn After Reading,Burn After Reading,0.8000
+Spaceballs,Spaceballs,0.8000
